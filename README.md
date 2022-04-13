@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zava2000
 - 👀 I’m interested in learning programming as a tool to my engineering career.
-- 🌱 I’m currently learning Machine Learning for Medical Applications.
+- 🌱 I’m currently learning Deep Learning and Big Data.
 - 💞️ I’m looking to collaborate with anyone who shares my interest.
 - 📫 How to reach me agus.zavagnini@gmail.com or agustin.zavagnini@hospitalitaliano.org.ar
 
